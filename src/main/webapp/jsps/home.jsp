@@ -11,10 +11,11 @@
 <body>
 <h1 align="center">OYENIYI OLAKUNLE</h1>
 <h2 align="center"> 
+	
+	<hr>
+	
 	<strong>PROFESSIONAL SUMMARY</strong>
 	
-	
-</h2>
 	-Over 2 years of expertise as a DevOps engineer 	
 	-Ardent team player with entrepreneurial spirit and result -driven work ethic.
 	-Excellent communicator with the ability to understand complex technical terms and convey in simple terms to KOLS, clients and team mates.
@@ -46,6 +47,8 @@
 	<strong>EDUCATION</strong>
         -Post-bacc, University of Alberta- 2022
         -MSc in Pharmaceutical Chemistry, University of Lagos-2012
+	
+	<hr>
 
 	<strong>TRAININGS/CERTIFICATIONS</strong>
 	-AWS Certtified Cloud Practitioner
