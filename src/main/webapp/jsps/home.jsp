@@ -9,21 +9,50 @@
 </head>
 </head>
 <body>
-<h1 align="center">ACADA Learning</h1>
-<h2 align="center"> Welcome to ACADA Learning. 
-	ACADA Learning is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance,
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY. Jesus is Lord</h2>
+<h1 align="center">OYENIYI OLAKUNLE</h1>
+<h2 align="center"> 
+	<strong>PROFESSIONAL SUMMARY</strong>
+	-Over 2 years of expertise as a DevOps engineer 	
+	-Ardent team player with entrepreneurial spirit and result -driven work ethic.
+	-Excellent communicator with the ability to understand complex technical terms and convey in simple terms to KOLS, clients and team mates.
+	-A people person, athletic, self-motivated with a very positive work outlook
+	
+	<strong>SKILLS</strong> 
+	-AWS, Azure and GCP
+	-Proficient with CI/CD tools including Jenkins, GIT and GIT workflows.
+	-Experience in shells script and python
+	-Containerization experience with Docker and K8s
+	-Excellent presentation skill 
+	-Strong oral and written communication skill
+	-Interpersonal skills
+	
+	<strong>EMPLOYMENT HISTORY</strong>
+         Junior DevOps Engineer: Sep 2019 – Till date
+	 XYZ Solutions, Edmonton, AB
+	-CI/CD pipeline design, development, implementation and management.
+	-Building and setting up of new environments, infrastructure and integrating automation tools
+	-Collaborating with project and development team for deployment, releases, feedback on production issues
+	-Investigating and performing root cause analysis for deployment failures.
+
+	<strong>EDUCATION</strong>
+        -Post-bacc, University of Alberta- 2022
+        -MSc in Pharmaceutical Chemistry, University of Lagos-2012
+
+	<strong>TRAININGS/CERTIFICATIONS</strong>
+	-AWS Certtified Cloud Practitioner
+	-Certified Kubernetes Administrator
+
+</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/DP black.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		ACADA Learning, 
-		Alberta, Calgary, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+		Olakunle Oyeniyi, 
+		Edmonton, AB, Canada
+		+1 780 203 5158
+		ooyeniyi@ualberta.ca
 		<br>
 		<a href="mailto:info@acadalearning.com">Mail to ACADA Learning</a>
 	</span>
