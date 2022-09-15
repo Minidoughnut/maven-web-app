@@ -12,12 +12,15 @@
 <h1 align="center">OYENIYI OLAKUNLE</h1>
 <h2 align="center"> 
 	<strong>PROFESSIONAL SUMMARY</strong>
+	
+	
+</h2>
 	-Over 2 years of expertise as a DevOps engineer 	
 	-Ardent team player with entrepreneurial spirit and result -driven work ethic.
 	-Excellent communicator with the ability to understand complex technical terms and convey in simple terms to KOLS, clients and team mates.
 	-A people person, athletic, self-motivated with a very positive work outlook
 	
-</h2>
+	<hr>
 	
 	<strong>SKILLS</strong> 
 	-AWS, Azure and GCP
@@ -28,6 +31,8 @@
 	-Strong oral and written communication skill
 	-Interpersonal skills
 	
+	<hr>
+	
 	<strong>EMPLOYMENT HISTORY</strong>
          Junior DevOps Engineer: Sep 2019 – Till date
 	 XYZ Solutions, Edmonton, AB
@@ -35,6 +40,8 @@
 	-Building and setting up of new environments, infrastructure and integrating automation tools
 	-Collaborating with project and development team for deployment, releases, feedback on production issues
 	-Investigating and performing root cause analysis for deployment failures.
+	
+	<hr>
 
 	<strong>EDUCATION</strong>
         -Post-bacc, University of Alberta- 2022
