@@ -65,6 +65,7 @@
 		Edmonton, AB, Canada
 		+1 780 203 5158
 		ooyeniyi@ualberta.ca
+		Sept 15, 2022
 		<br>
 		<a href="mailto:info@acadalearning.com">Mail to ACADA Learning</a>
 	</span>
