@@ -17,6 +17,8 @@
 	-Excellent communicator with the ability to understand complex technical terms and convey in simple terms to KOLS, clients and team mates.
 	-A people person, athletic, self-motivated with a very positive work outlook
 	
+</h2>
+	
 	<strong>SKILLS</strong> 
 	-AWS, Azure and GCP
 	-Proficient with CI/CD tools including Jenkins, GIT and GIT workflows.
@@ -42,7 +44,7 @@
 	-AWS Certtified Cloud Practitioner
 	-Certified Kubernetes Administrator
 
-</h2>
+
 <hr>
 <div style="text-align: center;">
 	<span>
