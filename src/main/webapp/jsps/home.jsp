@@ -24,6 +24,7 @@
 	
 	<hr>
 	
+	<marquee>
 	<strong>SKILLS</strong> 
 	-AWS, Azure and GCP
 	-Proficient with CI/CD tools including Jenkins, GIT and GIT workflows.
@@ -54,6 +55,7 @@
 	<strong>TRAININGS/CERTIFICATIONS</strong>
 	-AWS Certtified Cloud Practitioner
 	-Certified Kubernetes Administrator
+	</marquee>
 
 
 <hr>
