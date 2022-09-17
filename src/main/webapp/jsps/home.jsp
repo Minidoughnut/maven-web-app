@@ -17,7 +17,7 @@
 	
 	<strong>PROFESSIONAL SUMMARY</strong>
 	
-	-Over 4 years of expertise as a DevOps engineer 	
+	-Over 1 years of expertise as a DevOps engineer 	
 	-Ardent team player with entrepreneurial spirit and result -driven work ethic.
 	-Excellent communicator with the ability to understand complex technical terms and convey in simple terms to KOLS, clients and team mates.
 	-A people person, athletic, self-motivated with a very positive work outlook
